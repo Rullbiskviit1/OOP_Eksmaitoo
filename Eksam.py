@@ -101,3 +101,5 @@ while True:
         else:
             print("Head aega!")
             break  # Tsükli lõpetamine
+
+# Github link: https://github.com/Rullbiskviit1/OOP_Eksmaitoo
